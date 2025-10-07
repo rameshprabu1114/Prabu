@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://postimg.cc/XrMJVySR](https://i.postimg.cc/Cx5fsjvx/Logo.jpg](https://i.postimg.cc/Cx5fsjvx/Logo.jpg)" alt="Ramesh Interiors Logo" width="250"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ramesh Prabu</h1>
 <h3 align="center">🏠 Interior Designer | 🧩 Modular Kitchen Expert | 🚀 Entrepreneur from Coimbatore, India</h3>

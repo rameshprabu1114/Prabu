@@ -54,10 +54,10 @@ Founder of **Ramesh Interiors**, where we bring ideas to life through creativity
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/rameshinteriors" target="blank">
+  <a href="https://www.instagram.com/interiors_by_ramesh" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rameshinteriors@gmail.com" target="blank">
+  <a href="mailto:ramesh.interiors.cbe@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="blank">
